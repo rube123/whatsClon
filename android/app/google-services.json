@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449982502816",
+    "project_id": "chaternamel",
+    "storage_bucket": "chaternamel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449982502816:android:709d5cb5d814227fd336c5",
+        "android_client_info": {
+          "package_name": "com.example.tec_chat_celaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJ8KZB0otWjonP0JBEHWVskOt323pc4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
